@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.97bd8173.css",
-    "main.js": "/static/js/main.cd946152.js",
-    "static/js/757.c8c876c5.chunk.js": "/static/js/757.c8c876c5.chunk.js",
-    "static/js/787.3500bfec.chunk.js": "/static/js/787.3500bfec.chunk.js",
-    "static/js/964.91dbca4a.chunk.js": "/static/js/964.91dbca4a.chunk.js",
-    "static/media/Dubai-Regular.ttf": "/static/media/Dubai-Regular.8455b3cdc22765532fb6.ttf",
-    "static/media/book-ad.png": "/static/media/book-ad.a0a594d721ae65a63b9e.png",
-    "static/media/subscribe.svg": "/static/media/subscribe.4e02a43a1cd257999ccfa432021a8ce4.svg",
-    "index.html": "/index.html",
-    "static/media/close.svg": "/static/media/close.d1af7fdec9f00c6bdfcf62e4fcfebfd1.svg",
-    "main.97bd8173.css.map": "/static/css/main.97bd8173.css.map",
-    "main.cd946152.js.map": "/static/js/main.cd946152.js.map",
-    "757.c8c876c5.chunk.js.map": "/static/js/757.c8c876c5.chunk.js.map",
-    "787.3500bfec.chunk.js.map": "/static/js/787.3500bfec.chunk.js.map",
-    "964.91dbca4a.chunk.js.map": "/static/js/964.91dbca4a.chunk.js.map"
+    "main.css": "/arabic-wordly/static/css/main.9af3b454.css",
+    "main.js": "/arabic-wordly/static/js/main.e7a56896.js",
+    "static/js/757.c8c876c5.chunk.js": "/arabic-wordly/static/js/757.c8c876c5.chunk.js",
+    "static/js/787.3500bfec.chunk.js": "/arabic-wordly/static/js/787.3500bfec.chunk.js",
+    "static/js/964.91dbca4a.chunk.js": "/arabic-wordly/static/js/964.91dbca4a.chunk.js",
+    "static/media/Dubai-Regular.ttf": "/arabic-wordly/static/media/Dubai-Regular.8455b3cdc22765532fb6.ttf",
+    "static/media/book-ad.png": "/arabic-wordly/static/media/book-ad.a0a594d721ae65a63b9e.png",
+    "static/media/subscribe.svg": "/arabic-wordly/static/media/subscribe.4e02a43a1cd257999ccfa432021a8ce4.svg",
+    "index.html": "/arabic-wordly/index.html",
+    "static/media/close.svg": "/arabic-wordly/static/media/close.d1af7fdec9f00c6bdfcf62e4fcfebfd1.svg",
+    "main.9af3b454.css.map": "/arabic-wordly/static/css/main.9af3b454.css.map",
+    "main.e7a56896.js.map": "/arabic-wordly/static/js/main.e7a56896.js.map",
+    "757.c8c876c5.chunk.js.map": "/arabic-wordly/static/js/757.c8c876c5.chunk.js.map",
+    "787.3500bfec.chunk.js.map": "/arabic-wordly/static/js/787.3500bfec.chunk.js.map",
+    "964.91dbca4a.chunk.js.map": "/arabic-wordly/static/js/964.91dbca4a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.97bd8173.css",
-    "static/js/main.cd946152.js"
+    "static/css/main.9af3b454.css",
+    "static/js/main.e7a56896.js"
   ]
 }
