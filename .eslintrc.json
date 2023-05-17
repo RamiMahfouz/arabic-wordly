@@ -1,0 +1,22 @@
+{
+    "extends": [
+        "react-app",
+        "react-app/jest"
+    ],
+    "settings": {
+        "import/resolver": {
+            "node": {
+                "extensions": [
+                    ".js",
+                    ".jsx",
+                    ".ts",
+                    ".tsx"
+                ]
+            }
+        }
+    },
+    "rules": {
+        "eqeqeq": "off",
+        "react-hooks/exhaustive-deps": "off"
+    }
+}

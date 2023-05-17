@@ -1,0 +1,39 @@
+[debug] [2023-05-17T13:47:59.587Z] ----------------------------------------------------------------------
+[debug] [2023-05-17T13:47:59.590Z] Command:       C:\Program Files\nodejs\node.exe C:\Program Files\nodejs\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2023-05-17T13:47:59.590Z] CLI Version:   12.0.1
+[debug] [2023-05-17T13:47:59.591Z] Platform:      win32
+[debug] [2023-05-17T13:47:59.591Z] Node Version:  v18.3.0
+[debug] [2023-05-17T13:47:59.593Z] Time:          Wed May 17 2023 15:47:59 GMT+0200 (Eastern European Standard Time)
+[debug] [2023-05-17T13:47:59.593Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-05-17T13:47:59.604Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-05-17T13:47:59.604Z] > authorizing via signed-in user (ramimahfouz9@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\rami-\OneDrive\Desktop\lableb-projects\arabic-wordle
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
+[debug] [2023-05-17T13:48:04.323Z] Using project from CLI flag: arabic-wordle
+[debug] [2023-05-17T13:48:04.327Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/projects/arabic-wordle [none]
+[debug] [2023-05-17T13:48:05.000Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/projects/arabic-wordle 403
+[debug] [2023-05-17T13:48:05.001Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/projects/arabic-wordle {"error":{"code":403,"message":"The caller does not have permission","status":"PERMISSION_DENIED"}}
+[debug] [2023-05-17T13:48:05.002Z] HTTP Error: 403, The caller does not have permission
+[debug] [2023-05-17T13:48:05.197Z] FirebaseError: HTTP Error: 403, The caller does not have permission
+    at responseToError (C:\Users\rami-\AppData\Roaming\nvm\v18.3.0\node_modules\firebase-tools\lib\responseToError.js:49:12)
+    at RetryOperation._fn (C:\Users\rami-\AppData\Roaming\nvm\v18.3.0\node_modules\firebase-tools\lib\apiv2.js:288:77)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[error] 
+[error] Error: Failed to get Firebase project arabic-wordle. Please make sure the project exists and your account has permission to access it.
